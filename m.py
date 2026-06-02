@@ -13,10 +13,10 @@ bot = telebot.TeleBot('8886648712:AAEiRdimdmBIzvl3CbkUipD1DWrXRx8ja1s')
 admin_id = ["2139743817","100376235562"]
 
 # File to store allowed user IDs
-USER_FILE = "users.txt"
+USER_FILE = "100376235562"
 
 # File to store command logs
-LOG_FILE = "log.txt"
+LOG_FILE = "100376235562"
 
 
 # Function to read user IDs from the file
